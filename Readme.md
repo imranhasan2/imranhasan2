@@ -5,6 +5,6 @@ Hello! I'm Imran, a dedicated and enthusiastic web developer with a passion for 
 
 • 🌟 Frontend Focus: I specialize in frontend development, primarily working with HTML, tailwind, and JavaScript. I enjoy using frameworks like React to build responsive and user-friendly interfaces.
 
-• 🚀 Full-Stack Expertise: Along with frontend technologies, I have also mastered backend development using Node.js, Express, and MongoDB, allowing me to build robust and scalable web applications.
+• 🚀 Full-Stack Expertise: Along with frontend technologies, I have also learned backend development using Node.js, Express, and MongoDB, allowing me to build robust and scalable web applications.
 
 • 🚀 Continuous Learner: The ever-evolving landscape of web development fascinates me. I continuously seek out new challenges and learning opportunities to stay current with industry trends and best practices.
