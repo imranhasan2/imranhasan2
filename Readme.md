@@ -8,7 +8,7 @@
 • 🚀 Continuous Learner: The ever-evolving landscape of web development fascinates me. I continuously seek out new challenges and learning opportunities to stay current with industry trends and best practices.
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imranhasan2&show_icons=true)
 
 
 🚀 Some Tools I Use
